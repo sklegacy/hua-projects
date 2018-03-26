@@ -1,0 +1,41 @@
+
+iframe {
+    background-image:url('folder/image.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+tableMovies {
+
+}
+
+h1 {
+
+    text-align: center;
+}
+
+
+form {
+
+    text-align: center;
+}
+
+table {
+
+    text-align: center  ;
+}
+
+body {
+
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
